@@ -9,7 +9,7 @@ Stable tag: 1.1
 WP Robots Txt Allows you to edit the content of your robots.txt file.
 
 == Description ==
-
+TEST
 WordPress, by default, includes a simple robots.txt file that's dynamically generated from within the WP application.  This is great! but maybe you want to change the content.
 
 Enter WP Robots Txt, a plugin that adds an additional field to the "Reading" admin page where you can do just that.
