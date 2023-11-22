@@ -1,3 +1,6 @@
 {
 #    "readme": ["tree/master/wp-content/plugins/akismet/readme.txt", "tree/master/wp-content/plugins/wp-robots-txt/readme.txt"]
 }
+{
+    "channel": "stable"
+}
